@@ -1,4 +1,12 @@
 package com.uts.a10120030_raihanhidayat.ui.notifications;
+/**
+ *
+ * Nim : 10120030
+ * Kelas : IF1
+ * Nama : Muhammad Raihan Hidayat
+ * Email : mrhidayat420@gmail.com
+ *
+ */
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

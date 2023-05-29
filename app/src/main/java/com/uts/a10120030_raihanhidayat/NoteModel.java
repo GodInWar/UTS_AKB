@@ -1,9 +1,9 @@
 /**
  *
- * Nama : Bayu Rifki Alghifari
- * Nim : 10120003
- * Kelas : IF 1
- * Email : Bayu Rifki Alghifari
+ * Nim : 10120030
+ * Kelas : IF1
+ * Nama : Muhammad Raihan Hidayat
+ * Email : mrhidayat420@gmail.com
  *
  */
 

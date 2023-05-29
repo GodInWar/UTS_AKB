@@ -1,3 +1,12 @@
+/**
+ *
+ * Nim : 10120030
+ * Kelas : IF1
+ * Nama : Muhammad Raihan Hidayat
+ * Email : mrhidayat420@gmail.com
+ *
+ */
+
 package com.uts.a10120030_raihanhidayat.ui.notifications;
 
 import androidx.lifecycle.LiveData;
